@@ -1,0 +1,6 @@
+{
+  "name": "MIDI Background Tapper",
+  "description": "A premium visual MIDI background tapper utility and desktop overlay simulation with Web MIDI sync, custom key mapping, preset profiles, and HTML5 canvas animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
